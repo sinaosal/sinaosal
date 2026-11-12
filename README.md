@@ -1,4 +1,4 @@
-<img src="git-cat.png" alt="A black cat curled up in a round bed, with the GitHub logo" width="160" align="right">
+<img src="git-cat.png" alt="A black cat curled up in a round bed, with the GitHub logo" width="240" align="right">
 
 # Hello!
 
