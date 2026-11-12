@@ -23,7 +23,7 @@ I build tools, tracks, and mods for **Re-Volt / RVGL**, and I reverse-engineer h
 
 ## Tools I use
 
-C#, Unity, Python, HTML/CSS, Ghidra
+C++, Unity, Python, HTML/CSS, Ghidra, Ruby on Rails
 
 ## Find me
 
